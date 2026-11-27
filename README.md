@@ -15,3 +15,9 @@ After GitHub Pages is enabled from **Settings → Pages → Deploy from branch �
 - Support currently uses the public GitHub Issues system; never post sensitive records.
 - No app-ads.txt exists. Put only the owner's real AdMob-authorized seller line(s) at the website ROOT after AdMob registration and test Google crawler verification.
 - This repository stores static HTML/CSS only; it is not app hosting or an Android application backend.
+
+## TermTidy
+- https://devpro474-maker.github.io/termtidy/
+- https://devpro474-maker.github.io/termtidy/privacy-policy/
+- https://devpro474-maker.github.io/termtidy/support/
+TermTidy support contact: devpro909390@gmail.com. Final Play developer identity and shipped SDK/privacy disclosures must be reviewed before app publication. No app release claimed.
